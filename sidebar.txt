@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mas:home|Door43 (mas)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mas|d43-mas repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mas/archive/master.zip|d43-mas.zip]]
+
+**Recent Changes**
+{{changes>ns = mas}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mas|Ethnologue data]]
+

@@ -17,10 +17,7 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 [[http://www.ethnologue.com/language/mas|Ethnologue data]]
 
-
 **Resources**
 
   * [[mas:obs|Open Bible Stories (mas)]]
 
-**Latest OBS Status**
-{{page>en:uwadmin:mas:obs:status}}
